@@ -13,8 +13,6 @@ image: assets/images/abt_me.jpg
 	<div class="inner">
 		<header class="major">
 		</header>
-		<p>Hey there! I'm Umang. I'm a Software Engineer at ifm. I graduated from University of Applied Sciences Ravensburg-Weingarten in Electrical Engineering and Information Technology. I like to read about Computer Graphics, programming and anything related to Software used in Films!</p>
-
-    <p>When I'm not working you'll find me watching movies/tv-series, working on some 3D art on Blender or reading.</p>
+		<p> I am a technology enthusiasts. Professionally, I am working at Engelmann Sensor GmbH and part-time Indie developer.I am exploring Technical Content Writing. In my free time, I solve problems on Hackerrank and read tech articles. I make games, web and android applications. Apart from the web and app development, I like to work with microprocessors, microcontrollers and FPGAs. </p>
 	</div>
 </section>
