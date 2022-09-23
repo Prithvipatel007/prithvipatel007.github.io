@@ -14,7 +14,7 @@ image: assets/images/abt_me.jpg
 		<header class="major">
 		</header>
 		<p> I am a technology enthusiasts. Professionally, I am working at Engelmann Sensor GmbH and part-time Indie developer.I am exploring Technical Content Writing. In my free time, I solve problems on Hackerrank and read tech articles. I make games, web and android applications. Apart from the web and app development, I like to work with microprocessors, microcontrollers and FPGAs. </p>
-	</div
+	</div>
 	<p float="left">
 		<div class="w3-row w3-padding-64" id="about">
 		<div class="w3-col m6 w3-padding-large w3-hide-small">
