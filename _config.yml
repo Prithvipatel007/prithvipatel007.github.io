@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url: https://avatars.githubusercontent.com/u/40318836?v=4
+500px_url: 
 facebook_url: https://www.facebook.com/prithvi.patel.79
 github_url: https://github.com/Prithvipatel007
 gitlab_url:
