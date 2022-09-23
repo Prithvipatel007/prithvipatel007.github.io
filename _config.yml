@@ -1,15 +1,15 @@
 # site settings
-title: Umang Kaswala
-subtitle: Software Developer
-email: kaswalaumangb@gmail.com
+title: Prithvi Patel
+subtitle: Embedded Software Developer
+email: prithvi14091996@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Mariabrunnstraße 7
-city: Eriskirch
+street_address: Vogteistraße 5
+city: Weingarten
 state: Baden Württemberg
-zip_code: 88097
+zip_code: 88250
 country: Germany
 # phone:
 
@@ -19,12 +19,10 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/umangkaswala/
-github_url: https://github.com/umangkaswala
-gitlab_url:
-googleplus_url:
-instagram_url: https://www.instagram.com/_mr_kaswala/
-linkedin_url: https://www.linkedin.com/in/umang-kaswala/
+facebook_url: https://www.facebook.com/prithvi.patel.79
+github_url: https://github.com/Prithvipatel007
+instagram_url: https://www.instagram.com/gray.programmer/
+linkedin_url: https://www.linkedin.com/in/prithvi-patel-38665410a/
 pinterest_url:
 slack_url:
 twitter_url:
